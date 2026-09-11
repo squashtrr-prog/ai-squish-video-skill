@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI捏捏视频"
+  short_description: "从食物首帧到中英双语 H3 提示词和发布包"
+  default_prompt: "使用 $ai-squish-video 开始制作一条 15 秒 AI 捏捏解压视频；首次使用请先帮我设置输出目录。"

@@ -1,0 +1,21 @@
+🎯 英文核心Prompt（可直接用于Midjourney/SD/FLUX等）
+plain
+A tapering cluster of semi-translucent spherical forms with frosted crystalline surface texture, flowing organic gradient from warm pastel blush pink to cool muted lavender and soft plum, intimate handheld close-up perspective, centered vertical composition, soft natural diffused daylight, gentle specular highlights on matte frost surface, shallow depth of field, creamy warm beige blurred background, jelly-like subsurface scattering, minimalist lifestyle aesthetic, healing and soothing mood, pastel color science with low saturation and high brightness, dreamy serene atmosphere, photorealistic macro product photography, f/2.0 aperture, 8k resolution, ultra-detailed surface micro-textures, soft bokeh, clean fresh visual tone --ar 3:4 --style raw
+📋 中文结构化拆解（对应您要求的十大维度）
+表格
+维度	风格解析与Prompt映射
+美学灵魂	治愈系生活美学、少女Pastel视觉、极简静物诗意、温柔解压感
+画面风格	INS风静物摄影、产品微距、清新自然主义、Soft Life视觉
+画面成分组成	簇状球体集合、有机渐变排列、手持特写视角、奶油色虚化背景、无多余道具
+构图方式	中心构图、垂直方向主体、特写近景（CU）、手持第一人称视角、留白式背景
+分镜类型	特写镜头（Close-Up / Extreme Close-Up）、微距产品展示视角、沉浸式静物
+光影特质	柔和漫射自然光、轻微高光反射、无明显硬阴影、顶侧光照明、低对比度
+色调与色彩科学	粉紫冷暖渐变（暖粉→冷紫）、马卡龙低饱和色系、高明度Pastel、奶油底色过渡
+媒介与材质纹理	半透明磨砂凝胶质感、霜冻冰晶表面、次表面散射（SSS）、柔和漫反射、微距可见的细微凹凸
+情绪与氛围	治愈、清新、宁静、温柔、解压、梦幻冰凉感、呼吸感、无攻击性
+渲染/拍摄参数	微距镜头效、大光圈f/2.0、浅景深虚化、8K超清、自然光照明、Soft Focus、表面纹理极致清晰
+💡 使用建议
+主体替换：将 spherical forms 替换为任何你想创作的簇状/集合状物体（花朵、果实、气泡、宝石、抽象球体等），风格骨架会自动迁移。
+色彩迁移：保留 flowing organic gradient from warm pastel blush to cool muted lavender 这一渐变逻辑，可替换为任何冷暖对冲的Pastel色系。
+手持视角：若不需要手持构图，可删除 intimate handheld close-up perspective，改为 floating in creamy background 等静物陈列方式。
+平台适配：FLUX模型可去掉 --ar 和 --style 后缀；SD WebUI建议将Prompt拆分至正向提示词，并配合 macro photography 和 pastel color Lora使用。

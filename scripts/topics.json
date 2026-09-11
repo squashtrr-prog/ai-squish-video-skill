@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "category": "蔬菜",
+      "items": [
+        {"topic":"土豆","emoji":"🥔"},{"topic":"西红柿","emoji":"🍅"},{"topic":"玉米","emoji":"🌽"},{"topic":"南瓜","emoji":"🎃"},{"topic":"红薯","emoji":"🍠"},{"topic":"茄子","emoji":"🍆"},{"topic":"胡萝卜","emoji":"🥕"},{"topic":"莲藕","emoji":"🪷"},{"topic":"豌豆","emoji":"🫛"},{"topic":"花椰菜","emoji":"🥦"}
+      ]
+    },
+    {
+      "category": "水果",
+      "items": [
+        {"topic":"草莓","emoji":"🍓"},{"topic":"葡萄","emoji":"🍇"},{"topic":"橙子","emoji":"🍊"},{"topic":"水蜜桃","emoji":"🍑"},{"topic":"西瓜","emoji":"🍉"},{"topic":"芒果","emoji":"🥭"},{"topic":"猕猴桃","emoji":"🥝"},{"topic":"蓝莓","emoji":"🫐"},{"topic":"香蕉","emoji":"🍌"},{"topic":"梨","emoji":"🍐"}
+      ]
+    },
+    {
+      "category": "面包",
+      "items": [
+        {"topic":"牛角包","emoji":"🥐"},{"topic":"吐司","emoji":"🍞"},{"topic":"法棍","emoji":"🥖"},{"topic":"菠萝包","emoji":"🍞"},{"topic":"贝果","emoji":"🥯"},{"topic":"蝴蝶酥","emoji":"🥨"},{"topic":"餐包","emoji":"🍞"},{"topic":"麻花面包","emoji":"🥨"}
+      ]
+    },
+    {
+      "category": "零食",
+      "items": [
+        {"topic":"棉花糖","emoji":"☁️"},{"topic":"软糖","emoji":"🍬"},{"topic":"曲奇","emoji":"🍪"},{"topic":"薯片","emoji":"🥔"},{"topic":"威化饼","emoji":"🧇"},{"topic":"爆米花","emoji":"🍿"},{"topic":"巧克力","emoji":"🍫"},{"topic":"米花糖","emoji":"🍘"}
+      ]
+    },
+    {
+      "category": "蛋糕/甜点",
+      "items": [
+        {"topic":"纸杯蛋糕","emoji":"🧁"},{"topic":"瑞士卷","emoji":"🍰"},{"topic":"芝士蛋糕","emoji":"🍰"},{"topic":"慕斯蛋糕","emoji":"🍰"},{"topic":"甜甜圈","emoji":"🍩"},{"topic":"马卡龙","emoji":"🧁"},{"topic":"布丁","emoji":"🍮"},{"topic":"泡芙","emoji":"🥮"}
+      ]
+    }
+  ]
+}
